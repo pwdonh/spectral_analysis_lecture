@@ -4,6 +4,8 @@ This matlab code and example signal reproduces the figures that are shown in the
 
 https://vimeo.com/217849639
 
+https://www.mcgill.ca/bic/training-events/training-programs/meg-comprehensive-training
+
 The code uses some functions from the Brainstorm M/EEG toolbox
 
 https://github.com/brainstorm-tools/brainstorm3
